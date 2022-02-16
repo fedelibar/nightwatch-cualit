@@ -1,0 +1,27 @@
+{
+  "name": "nightwatch-cualit",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/federicolb/nightwatch-cualit.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/federicolb/nightwatch-cualit/issues"
+  },
+  "homepage": "https://github.com/federicolb/nightwatch-cualit#readme",
+  "dependencies": {
+    "nightwatch": "^2.0.7",
+    "request": "^2.88.2"
+  },
+  "devDependencies": {
+    "chromedriver": "^98.0.0"
+  }
+}
